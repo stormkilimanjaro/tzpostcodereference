@@ -9,7 +9,8 @@ The aim of this project is to create a web application which will generate the u
   
 This information shall be extracted from [TCRA's](https://www.tcra.go.tz/index.php) official [list of postcodes](Combined-Postcode-List_Final.pdf)
 
-***
+#### Data Cleaning
+-----------
 
 Lengo ya hii project ni kutengeneza programu ya mtandao itakayo mjulisha mtumiaji postikodi yake kwa kutumia vigezo vifuatavyo:
 
